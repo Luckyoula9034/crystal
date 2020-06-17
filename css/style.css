@@ -335,11 +335,11 @@ div#preloader {
 
 .main-menu ul.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
   background: none;
-  color: #333;
+  color:white;
 }
 
 .navbar-default .navbar-toggle {
-  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  background: rgba(255, 249, 249, 0) none repeat scroll 0 0;
   border: medium none;
   border-radius: 0;
   padding: 25px 0px;
@@ -355,7 +355,7 @@ div#preloader {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color:black;
+  background-color:rgb(255, 255, 255);
   width: 30px;
   height: 2px;
 }
@@ -377,7 +377,7 @@ div#preloader {
 }
 
 .main-menu .dropdown ul {
-  background: #000;
+  background: white;
 }
 
 .main-menu .dropdown ul li {
